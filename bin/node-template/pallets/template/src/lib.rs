@@ -103,5 +103,6 @@ decl_module! {
 				},
 			}
 		}
+		/// Boom
 	}
 }
